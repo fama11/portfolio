@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+.div1{
+  border: 1px solid black;
+  margin-top: 50px;
+  margin-bottom: 100px;
+  margin-right: 50px;
+  margin-left: 50px;
+  padding: 20px;
+  text-align: center;
+  background-color: lightblue;
+}
+    
+.div2{ 
+    margin-right: 40px;    
+    margin-left: 40px;
+    padding: 20px;
+    }  
+       
+  .div3{   
+    margin-right: 40px;    
+    margin-left: 40px;
+    padding: 20px;
+    }  
+    .div4{
+        margin-right: 500px;    
+        margin-left: 500px;
+        padding: 20px;
+    }
+    
+    .div5{ 
+    margin-right: 40px;    
+    margin-left: 40px;
+    padding: 20px;
+    }  
+    
+    .div6{ 
+    margin-right: 40px;    
+    margin-left: 40px;
+    padding: 20px;
+    }
+    
+    .div7{ 
+    margin-right: 40px;    
+    margin-left: 00px;
+    padding: 20px;
+    }  
+     .div8{   
+    margin-right: 40px;    
+    margin-left: 40px;
+    padding: 20px;
+    }  
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 5px;
+  text-align: left;    
+}
+   table#t01 {
+  width: 100%;    
+  background-color: #f1f1c1;
+} 
+</style>
+	<meta charset="UTF-8">
+	<title>Farjana Fama</title>
+	<link rel="stylesheet"href="css/style.css">
+	</head>
+	
+	<body>
+	    
+        
+    <div class="div2">
+        <h1><b><u>Personal information</u></b></h2>
+        <p>My name Fama.I am from Dhaka.I am student of Daffodil International University. I am studing at dept of cse. Travelling & Photography is my hobby
+ </p>
+        </div> 
+       <div class="div3">
+           <h3>Academic Result:</h3>
+       <table id="t01">
+  <tr>
+    <th>SCHOOL/COLLEGE</th>
+    <th>RESULT</th> 
+    <th>YEAR</th>
+  </tr>
+  <tr>
+    <td>S.S.C from Motijheel Model High School & College </td>
+    <td>5.00</td>
+    <td>2014</td>
+  </tr>
+  <tr>
+    <td>Dhka Mohanagar Girls College</td>
+    <td>5.00</td>
+    <td>2016</td>
+  </tr>
+</table>
+
+       
+        
+        
+        <div class="div5">
+            
+            <h1><u>Hobbies</u></h1>
+            
+            
+            <div class="div6">
+             
+                <h3 style="color:Tomato;"><b>Travellling</b></h3>
+                <big>My favourite Travelling place-</big>
+                  <ul>
+                
+                         
+                                                
+                            <li>chandpur</li>
+                      
+                               <li>Jaflong, sylhet</li>
+                      
+                            <li>Nafakhum, chittagong </li>
+                      
+                                <li>Coxbazar</li>
+                </ul>
+                      
+                      
+                <div class="div7">
+                
+                <h3 style="color:Tomato;"><b>Photography</b></h3>
+                    <big>I used to do potrait photography in different types of concepts. </big>
+     
+            
+                  
+                </div>
+				
+				<div class="div8">
+                
+                <h4 style="color:Tomato;"><b>links of my work: </b></h4>
+                    <big>https://www.facebook.com/farjanafama11 </big>
+     
+            
+                  
+                </div>
+            
+            </div>
+        </div>
+        
+            
+         
+	</body>
+	
+	</html>
